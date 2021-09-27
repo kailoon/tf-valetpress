@@ -38,9 +38,8 @@ alias vp='function _vp(){
 		wp plugin install debug-bar --activate
 		wp plugin install woocommerce --activate
 		wp plugin install wordpress-importer --activate
-		wp plugin install envato-elements --activate
 		wp plugin install elementor --activate
-		wp plugin install monster-widget --activate
+		wp plugin install https://github.com/kailoon/monster-widget/archive/main.zip --active
 		curl -O https://raw.githubusercontent.com/WPTT/theme-unit-test/master/themeunittestdata.wordpress.xml
 		wp import themeunittestdata.wordpress.xml --authors=create
 		rm themeunittestdata.wordpress.xml
@@ -72,9 +71,8 @@ alias vp='function _vp(){
 		wp plugin install debug-bar --activate
 		wp plugin install woocommerce --activate
 		wp plugin install wordpress-importer --activate
-		wp plugin install envato-elements --activate
 		wp plugin install elementor --activate
-		wp plugin install monster-widget --activate
+		wp plugin install https://github.com/kailoon/monster-widget/archive/main.zip --active
 		echo "L: ${VP_UNDERLINE}http://$project_name.test/wp-admin/${VP_NONE}"
 		echo "U: $project_name"
 		echo "P: password"
