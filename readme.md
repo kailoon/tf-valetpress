@@ -8,7 +8,6 @@ To create WordPress site locally quickly with [Valet](https://laravel.com/docs/8
 - [block unit test](https://wordpress.org/plugins/block-unit-test/)
 - [debug bar](https://wordpress.org/plugins/debug-bar/)
 - [woocommerce](https://wordpress.org/plugins/woocommerce/)
-- [envato elements](https://wordpress.org/plugins/envato-elements/)
 - [elementor](https://wordpress.org/plugins/elementor/)
 - [Monster Widget](https://wordpress.org/plugins/monster-widget/)
 
